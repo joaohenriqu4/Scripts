@@ -1,0 +1,27 @@
+http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sinanwin/cnv/animaisAC.def   24
+http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sinanwin/cnv/animaisAL.def   104
+http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sinanwin/cnv/animaisAP.def   18
+http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sinanwin/cnv/animaisAM.def   64
+http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sinanwin/cnv/animaisBA.def   64
+http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sinanwin/cnv/animaisCE.def   186
+http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sinanwin/cnv/animaisDF.def   2
+http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sinanwin/cnv/animaisES.def   80
+http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sinanwin/cnv/animaisGO.def   248
+http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sinanwin/cnv/animaisMA.def   219
+http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sinanwin/cnv/animaisMT.def   143
+http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sinanwin/cnv/animaisMS.def   81
+http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sinanwin/cnv/animaisMG.def   855
+http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sinanwin/cnv/animaisPA.def   146
+http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sinanwin/cnv/animaisPB.def   225
+http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sinanwin/cnv/animaisPR.def   401
+http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sinanwin/cnv/animaisPE.def   187
+http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sinanwin/cnv/animaisPI.def   226
+http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sinanwin/cnv/animaisRJ.def   94
+http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sinanwin/cnv/animaisRN.def   169
+http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sinanwin/cnv/animaisRS.def   499
+http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sinanwin/cnv/animaisRO.def   54
+http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sinanwin/cnv/animaisRR.def   
+http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sinanwin/cnv/animaisSC.def   
+http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sinanwin/cnv/animaisSP.def   
+http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sinanwin/cnv/animaisSE.def   
+http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sinanwin/cnv/animaisTO.def   
