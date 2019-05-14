@@ -20,8 +20,8 @@ http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sinanwin/cnv/animaisRJ.def   94
 http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sinanwin/cnv/animaisRN.def   169
 http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sinanwin/cnv/animaisRS.def   499
 http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sinanwin/cnv/animaisRO.def   54
-http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sinanwin/cnv/animaisRR.def   
-http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sinanwin/cnv/animaisSC.def   
-http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sinanwin/cnv/animaisSP.def   
-http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sinanwin/cnv/animaisSE.def   
-http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sinanwin/cnv/animaisTO.def   
+http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sinanwin/cnv/animaisRR.def   17 
+http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sinanwin/cnv/animaisSC.def   297
+http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sinanwin/cnv/animaisSP.def   647
+http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sinanwin/cnv/animaisSE.def   77
+http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sinanwin/cnv/animaisTO.def   141
